@@ -1,4 +1,4 @@
-
+CREATE DATABASE e_commerce;
 use e_commerce;
 
 CREATE TABLE tb_produtos(
@@ -21,5 +21,6 @@ VALUES ("tio jão","arroz","grãos",25.20);
 
 SHOW TABLES like 'tb_produtos';
 
+SELECT * FROM tb_produtos;
 
 
