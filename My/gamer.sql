@@ -39,3 +39,5 @@ SELECT * FROM tb_personagens WHERE defesa BETWEEN 1000 AND 2000;
 
 
 SELECT * FROM tb_personagens WHERE nome
+
+SELECT *FROM  INNER JOIN 
